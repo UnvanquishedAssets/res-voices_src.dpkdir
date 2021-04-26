@@ -5,15 +5,13 @@ Unvanquished voices
 About
 -----
 
-This is a resource packages giving voice assets to the [Unvanquished](https://unvanquished.net) game project.
+This is a resource package providing voice assets to the [Unvanquished](https://unvanquished.net) game project.
 
-This is the right place for:
+This is the right place to store announcements, voices and other sound effects like that.
 
-- announcements
-- voices
-
+Visit the [Unvanquished website](https://unvanquished.net/) for more information about the game itself.
 
 Credits
 -------
 
-- The [Unvanquished team](https://unvanquished.net/?page_id=336)
+- The [Unvanquished team](https://unvanquished.net/about/)
