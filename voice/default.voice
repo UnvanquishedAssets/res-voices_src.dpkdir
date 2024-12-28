@@ -520,7 +520,7 @@ needammo
 	"voice/human/needammo.ogg"
 	{
 		team humans
-		class aliens
+		class humans
 		text "I need ammo!"
 		enthusiasm 0
 	}
